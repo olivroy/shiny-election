@@ -1,0 +1,14 @@
+name: shiny-election
+title: shiny-election
+username:
+account: olivierroy1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7301775
+bundleId: 6400511
+url: https://olivierroy1.shinyapps.io/shiny-election/
+when: 1665690500.72521
+lastSyncTime: 1665690500.72521
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: analysis.R
